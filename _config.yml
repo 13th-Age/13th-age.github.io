@@ -1,3 +1,5 @@
 title: "13th Age Tools"
 titles_from_headings:
     enabled: false
+plugins:
+    - jekyll-sitemap
